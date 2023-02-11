@@ -4,5 +4,5 @@
 ![](https://komarev.com/ghpvc/?username=BandarHL)
 
 # Donation
-- ![Paypal](https://www.paypal.me/BandarHL)
-- ![Buy Me A Coffee](https://www.buymeacoffee.com/bandarHL)
+- [Paypal](https://www.paypal.me/BandarHL)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/bandarHL)
